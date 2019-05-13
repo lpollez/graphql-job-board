@@ -7,10 +7,19 @@
     "build": "react-scripts build"
   },
   "dependencies": {
+    "atob": "^2.1.2",
     "bulma": "0.6.2",
+    "cryptiles": "^4.1.3",
+    "deep-extend": "^0.6.0",
+    "extend": "^3.0.2",
+    "lodash": "^4.17.11",
+    "merge": "^1.2.1",
+    "randomatic": "^3.1.1",
     "react": "16.2.0",
+    "react-dev-utils": "^9.0.1",
     "react-dom": "16.2.0",
-    "react-router-dom": "4.2.2"
+    "react-router-dom": "4.2.2",
+    "url-parse": "^1.4.7"
   },
   "devDependencies": {
     "react-scripts": "1.1.1"
